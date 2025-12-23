@@ -1,0 +1,16 @@
+{
+  "name": "mivite",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "mivite": "./bin/mivite.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hung Nguyen <hi@nghiahung.dev>",
+  "license": "MIT",
+  "type": "module"
+}
